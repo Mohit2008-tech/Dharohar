@@ -8,7 +8,7 @@ and Little bit about smell detection techniques for the artifacts in the Vitual 
 ![IMG_0014](https://github.com/Mohit2008-tech/Dharohar/assets/83158393/2f1e60cf-1d21-4b51-9e01-b360d52c4e11)
 
 # Dharohar VR View
-# #D models of the Artifacts
+# 3D models of the Artifacts
 https://github.com/Mohit2008-tech/Dharohar/assets/83158393/1b37f701-a272-45b3-8d16-3611cb65bd9d
 
 # The entire Museum
